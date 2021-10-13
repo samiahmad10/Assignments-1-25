@@ -1,0 +1,36 @@
+#redL{
+height: 50px;
+width: 50px;
+margin: 1px auto;
+background-color: red;
+border-radius: 50px;
+border: solid 1px black;
+padding: 1px;
+}
+#yellowL{
+height: 50px;
+width: 50px;
+margin: 1px auto;
+background-color: yellow;
+border-radius: 50px; 
+border: solid 1px black;
+padding: 1px;
+}
+#greenL{
+height: 50px;
+width: 50px;
+margin: 1px auto;
+background-color: green;
+border-radius: 50px;
+border: solid 1px black;
+padding: 1px;
+}
+
+h1{
+text-align: center;
+padding: 1px;
+}
+h3{
+text-align: center;
+padding: 1px;
+}
